@@ -139,3 +139,7 @@ p{
     display: flex;
     justify-content: center;
 }
+
+.row {
+    text-align: center;
+}
